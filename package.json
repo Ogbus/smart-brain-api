@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "start": "npm start",
+  "start": "node server.js",
   "scripts": {
     "start": "nodemon server.js"
   },
